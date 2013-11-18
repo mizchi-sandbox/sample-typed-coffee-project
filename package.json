@@ -10,6 +10,6 @@
   "license": "BSD-2-Clause",
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-typed-coffee-script": "0.2.3"
+    "grunt-typed-coffee-script": "0.2.4"
   }
 }
